@@ -20,19 +20,17 @@ public class NumberSummarizerImplTest {
         Collection<Integer> result =test.collect(numbers);
         assertEquals(Arrays.asList(1, 3, 4, 6, 7, 20, 103, 104, 107, 108, 109, 110, 115, 188, 189, 192),result);
 
-
-
     }
 
     @Test
     public void testSummarizedCollection(){
 
         NumberSummarizerImpl test = new NumberSummarizerImpl();
-        Collection<Integer> listCollected =  Arrays.asList(1,3,4,6,7,103,104,107,108,109,110,115,188,189,192,200);
+        Collection<Integer> listCollected =  Arrays.asList(1,3,6,7,8,12,13,14,15,21,22,23,24,31);
         String summarizedstr = test.summarizeCollection(listCollected);
         System.out.println(summarizedstr);
 
-        assertEquals("1, 3 - 4, 6 - 7, 103 - 104, 107 - 110, 115, 188 - 189, 192, 200",summarizedstr);
+        assertEquals("1, 3, 6-8, 12-15, 21-24, 31",summarizedstr);
     }
 
 }
