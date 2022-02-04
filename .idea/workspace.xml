@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d735d8d-a66c-45e4-8e3b-84e7698b2ff5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_0_0_M4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_0_0_M4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_0_0_M4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_runner_1_0_0_M4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_suite_api_1_0_0_M4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/numberRangeSummarizer/NumberSummarizerImplTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/numberRangeSummarizer/NumberSummarizerImplTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/numberrangesummarizer.iml" afterPath="$PROJECT_DIR$/numberrangesummarizer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/numberRangeSummarizer/NumberSummarizerImplTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/numberRangeSummarizer/NumberSummarizerImplTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,7 +21,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="814">
@@ -40,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberSummarizerImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NumberSummarizerImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberSummarizerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="330">
+              <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1068#1077#0" expanded="true" />
@@ -53,11 +44,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="IntPredicate.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/openlogic-openjdk-8u262-b10-win-64/src.zip!/java/util/function/IntPredicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="47" />
+            <state relative-caret-position="330">
+              <caret line="15" column="60" lean-forward="false" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,11 +66,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ClassCastException.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/openlogic-openjdk-8u262-b10-win-64/src.zip!/java/lang/ClassCastException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="NumberSummarizerImplTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/numberRangeSummarizer/NumberSummarizerImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="566">
+              <caret line="35" column="114" lean-forward="true" selection-start-line="35" selection-start-column="114" selection-end-line="35" selection-end-column="114" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,8 +91,8 @@
       <file leaf-file-name="NumberRangeSummarizer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberRangeSummarizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="62" />
+            <state relative-caret-position="485">
+              <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -92,8 +103,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -118,12 +129,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberRangeSummarizerr.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/umberRangeRangeSummarizerr.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/numberRangeRangeSummarizerr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberSummarizerImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/Demo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/NumberSummarizerImplTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/numberRangeSummarizer/NumberSummarizerImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Error/ErrorCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberSummarizerImpl.java" />
       </list>
     </option>
   </component>
@@ -139,6 +151,9 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -225,6 +240,58 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numberrangesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numberrangesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numberrangesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numberrangesummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="numberRangeSummarizer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -240,7 +307,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.NumberSummarizerImplTest.testSummarizedCollection">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.numberRangeSummarizer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -295,6 +367,32 @@
       <option name="PACKAGE_NAME" value="com.numberRangeSummarizer" />
       <option name="MAIN_CLASS_NAME" value="com.numberRangeSummarizer.NumberSummarizerImplTest" />
       <option name="METHOD_NAME" value="testSummarizedCollection" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="NumberSummarizerImplTest.runAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.numberRangeSummarizer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="numberrangesummarizer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.numberRangeSummarizer" />
+      <option name="MAIN_CLASS_NAME" value="com.numberRangeSummarizer.NumberSummarizerImplTest" />
+      <option name="METHOD_NAME" value="runAll" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -714,22 +812,27 @@
       <patterns />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Main" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.NumberSummarizerImplTest.testCollectedNumbers" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.NumberSummarizerImplTest" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.NumberSummarizerImplTest.testSummarizedCollection" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.NumberSummarizerImplTest.runAll" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.NumberSummarizerImplTest.testSummarizedCollection" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.NumberSummarizerImplTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.NumberSummarizerImplTest.runAll" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.NumberSummarizerImplTest.testSummarizedCollection" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.NumberSummarizerImplTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -738,33 +841,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643903626926</updated>
-      <workItem from="1643903629753" duration="5385000" />
+      <workItem from="1643903629753" duration="9126000" />
     </task>
+    <task id="LOCAL-00001" summary="Fixing unit test dependencies">
+      <created>1643909175979</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643909175979</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NumberSummarizerImplTest - 2022.02.03 at 19h 18m 41s.xml">
-      <configuration name="NumberSummarizerImplTest" configurationId="JUnit" />
+    <history-entry file="NumberSummarizerImplTest_runAll - 2022.02.03 at 19h 33m 05s.xml">
+      <configuration name="NumberSummarizerImplTest.runAll" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberSummarizerImplTest_testCollectedNumbers - 2022.02.03 at 18h 50m 58s.xml">
-      <configuration name="NumberSummarizerImplTest.testCollectedNumbers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberSummarizerImplTest_testCollectedNumbers - 2022.02.03 at 18h 52m 07s.xml">
-      <configuration name="NumberSummarizerImplTest.testCollectedNumbers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberSummarizerImplTest_testCollectedNumbers - 2022.02.03 at 18h 54m 13s.xml">
-      <configuration name="NumberSummarizerImplTest.testCollectedNumbers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberSummarizerImplTest_testCollectedNumbers - 2022.02.03 at 18h 55m 05s.xml">
-      <configuration name="NumberSummarizerImplTest.testCollectedNumbers" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberSummarizerImplTest_testCollectedNumbers - 2022.02.03 at 19h 18m 50s.xml">
-      <configuration name="NumberSummarizerImplTest.testCollectedNumbers" configurationId="JUnit" />
+    <history-entry file="NumberSummarizerImplTest_runAll - 2022.02.04 at 08h 03m 55s.xml">
+      <configuration name="NumberSummarizerImplTest.runAll" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumberSummarizerImplTest_testCollectedNumbers - 2022.02.03 at 19h 21m 27s.xml">
       <configuration name="NumberSummarizerImplTest.testCollectedNumbers" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumberSummarizerImplTest_testCollectedNumbers - 2022.02.03 at 19h 21m 59s.xml">
+      <configuration name="NumberSummarizerImplTest.testCollectedNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberSummarizerImplTest_testCollectedNumbers - 2022.02.03 at 19h 29m 30s.xml">
       <configuration name="NumberSummarizerImplTest.testCollectedNumbers" configurationId="JUnit" />
     </history-entry>
     <history-entry file="NumberSummarizerImplTest_testSummarizedCollection - 2022.02.03 at 19h 22m 37s.xml">
@@ -773,9 +875,18 @@
     <history-entry file="NumberSummarizerImplTest_testSummarizedCollection - 2022.02.03 at 19h 24m 33s.xml">
       <configuration name="NumberSummarizerImplTest.testSummarizedCollection" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="NumberSummarizerImplTest_testSummarizedCollection - 2022.02.03 at 19h 27m 15s.xml">
+      <configuration name="NumberSummarizerImplTest.testSummarizedCollection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberSummarizerImplTest_testSummarizedCollection - 2022.02.03 at 19h 29m 12s.xml">
+      <configuration name="NumberSummarizerImplTest.testSummarizedCollection" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NumberSummarizerImplTest_testSummarizedCollection - 2022.02.03 at 19h 29m 37s.xml">
+      <configuration name="NumberSummarizerImplTest.testSummarizedCollection" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5385000" />
+    <option name="totallyTimeSpent" value="9126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="3218" height="1318" extended-state="6" />
@@ -818,9 +929,21 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixing unit test dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing unit test dependencies" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberSummarizerImpl.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -845,50 +968,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberSummarizerImpl.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1068#1077#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberRangeSummarizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="62" />
+        <state relative-caret-position="814">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/numberRangeSummarizer/NumberSummarizerImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="566">
+          <caret line="35" column="114" lean-forward="true" selection-start-line="35" selection-start-column="114" selection-end-line="35" selection-end-column="114" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://C:/Program Files/Java/openlogic-openjdk-8u262-b10-win-64/src.zip!/java/lang/ClassCastException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="275">
+          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberRangeSummarizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="27" column="24" lean-forward="false" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/ErrorCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/openlogic-openjdk-8u262-b10-win-64/src.zip!/java/util/function/IntPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="49" column="12" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="60" lean-forward="false" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/numberRangeSummarizer/NumberSummarizerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1068#1077#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
