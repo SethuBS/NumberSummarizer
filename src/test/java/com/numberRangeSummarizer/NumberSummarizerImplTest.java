@@ -34,10 +34,9 @@ public class NumberSummarizerImplTest {
 
         NumberSummarizerImpl test = new NumberSummarizerImpl();
         Collection<Integer> listCollected =  Arrays.asList(1,3,4,6,7,103,104,107,108,109,110,115,188,189,192,200);
-        String summarizedstr = test.summarizeCollection(listCollected);
-        System.out.println(summarizedstr);
-
-        assertEquals("1, 3-4, 6-7, 103-104, 107-110, 115, 188-189, 192, 200",summarizedstr);
+        String summarizedString = test.summarizeCollection(listCollected);
+        System.out.println(summarizedString);
+        assertEquals("1, 3-4, 6-7, 103-104, 107-110, 115, 188-189, 192, 200",summarizedString);
     }
 
 }

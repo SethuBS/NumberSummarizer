@@ -10,6 +10,12 @@ import java.util.List;
  */
 public class NumberSummarizerImpl implements NumberRangeSummarizer {
 
+    /***
+     *
+     * @param input
+     *
+     * @return list
+     */
     public Collection<Integer> collect(String input) {
 
         //Separate the numbers with ","
@@ -34,6 +40,11 @@ public class NumberSummarizerImpl implements NumberRangeSummarizer {
         return list;
     }
 
+    /***
+     *
+     * @param input
+     * @return ranges
+     */
     public String summarizeCollection(Collection<Integer> input) {
         int count = 0;
         //hOLD the range
