@@ -11,9 +11,10 @@ import java.util.List;
 public class NumberSummarizerImpl implements NumberRangeSummarizer {
 
     /***
+     *This method is separating string comma and add them in int array.
+     * it will also sort them ascending order. eventual it will at them in the List Array of Integers.
      *
      * @param input
-     *
      * @return list
      */
     public Collection<Integer> collect(String input) {
@@ -40,6 +41,7 @@ public class NumberSummarizerImpl implements NumberRangeSummarizer {
         return list;
     }
 
+    //TO Do explaining the methods
     /***
      *
      * @param input
